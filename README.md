@@ -1,1 +1,1 @@
-# To-do list em desenvolvimeto
+# To-do list em desenvolvimento
